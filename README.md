@@ -1,7 +1,4 @@
 
-### README.md (Highway Racer)
-
-'''markdown
 # 🚗 Highway Racer
 
 A highway racing game built with Python and Pygame. Use arrow keys to switch lanes and avoid oncoming cars.
